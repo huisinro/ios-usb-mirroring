@@ -6,3 +6,8 @@ This project contains source code of the implementation for the same iOS USB Mir
 With this independent implementation, iOS devices can be mirrored to any platforms using the lightning cable. No sotware is required to install to
 the iOS devices.
 
+A screenshot is available here: (scren and audio is supported).
+
+https://plus.google.com/114395554184391775867/posts/N3pKpzK8A6K
+
+This real. YouMap supports all kinds of mirroring protocols, AirPlay, Chromecast, Miracast, USB Mirroring, etc.
